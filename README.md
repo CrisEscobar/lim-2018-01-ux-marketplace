@@ -86,7 +86,7 @@ Realizamos entrevistas con 5 tipos de usuarios con el fin de entender sus necesi
 
 ![Imagen 1][1]  ![Imagen 2][2] ![Imagen 3][3]
 
- [1]: https://crisescobar.files.wordpress.com/2018/09/40591923_457255594781963_6037446359894720512_n2.jpg
+
  [2]: https://crisescobar.files.wordpress.com/2018/09/40599066_538059783284060_8632871925518958592_n2.jpg 
  [3]: https://crisescobar.files.wordpress.com/2018/09/40684035_663408490709628_8940836147387432960_n.jpg
 
